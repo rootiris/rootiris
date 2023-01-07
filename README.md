@@ -1,8 +1,6 @@
 ### Hello, World! 👋
 
 print("rootiris")
-I joined on 2023/1/7.
-I don't have great skills or ideas.
 <!--
 **rootiris/rootiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
