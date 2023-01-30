@@ -1,6 +1,8 @@
-### Hello, World! 👋
+### Hello, GitHub! 👋
 
-print("rootiris")
+print("iris")
+i iris.
+if iris was taken, i mostly use rootiris.
 <!--
 **rootiris/rootiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
